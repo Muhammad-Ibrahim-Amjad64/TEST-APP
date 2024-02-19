@@ -1,0 +1,6 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "[javascript]": {
+    "editor.defaultFormatter": "Jota0222.multi-formatter"
+  }
+}
